@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@zeit/next-typescript": "^1.1.1",
+    "express": "^4.17.1",
+    "next": "^8.1.0",
+    "next-i18next": "^0.43.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
+}
